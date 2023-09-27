@@ -1,0 +1,2 @@
+# E-Commerce-Cursos
+proyecto de una página web de compra de cursos desarrollada con JavaScript. Permite a los usuarios agregar cursos al carrito de compras, donde se muestran detalles como la imagen, el título, el precio y la cantidad. Los usuarios también pueden eliminar productos individualmente o vaciar completamente el carrito. Este proyecto es una excelente manera de aprender y practicar JavaScript y la manipulación del DOM
